@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **welitto/welitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" height="200" src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🚀 Sempre Aberto a Novas oportunidades.
+- ⚡ Desenvolvedor Back End
+- 💻 Git, MySQL, Javascript, JQuery, AJAX, Node.JS, Express, Restfy
+- 📘 Estudando: React.JS e React Native, Testes Unitários com JEST e Docker.
+- 💬 Sobre mim: Gosto sempre de ajudar o próximo e contribuir com soluções tecnológicas. 
+- 📫 wnegrao@gmail.com
 -->
+
+
