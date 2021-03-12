@@ -19,7 +19,6 @@
 
 ### Demonstração de Conhecimentos
 
-- [Frontend em ReactNative: Calculadora IMC](https://github.com/welitto/calcIMC)
 - [Frontend em Html,CSS,JS: Dashboard](https://github.com/welitto/dashbord)
 - [BackEnd em Nodejs: API REST com integrações com giphy e recipePuppy ](https://github.com/welitto/recipes-api)
 - [BackEnd em PHP: API REST com Laravel](https://github.com/welitto/catalogo_imoveis)
